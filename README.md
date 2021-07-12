@@ -1,2 +1,2 @@
-# C-_FLTK
+# Ejemplo Basico con FLTK
 Hecho en C++ + FLTK
