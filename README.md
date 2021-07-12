@@ -1,2 +1,4 @@
-# Ejemplo Basico con FLTK
-Hecho en C++ + FLTK
+## Compilar: 
+```bash
+fltk-config --compile suma.cxx
+```
