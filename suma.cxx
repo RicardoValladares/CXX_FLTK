@@ -62,3 +62,4 @@ void Ventana::sumar() {
 		resultado->value(ctotal);  
 	}
 }
+
